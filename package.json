@@ -64,11 +64,11 @@
     "start:server": "bun run --filter roamgate-server start"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.14",
+    "@biomejs/biome": "2.5.15",
     "@types/web-push": "^3.6.4",
     "bun-types": "^1.4.2",
-    "happy-dom": "^20.14.5",
-    "oxlint": "1.86.0",
+    "happy-dom": "^20.14.6",
+    "oxlint": "1.87.0",
     "typescript": "^7.0.2"
   },
   "overrides": {
